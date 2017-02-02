@@ -1,0 +1,5 @@
+// new file
+
+class DefaultClass{
+  private String n;
+}
